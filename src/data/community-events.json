@@ -1,4 +1,21 @@
-[
+[ {
+    "title": "Epic Web3 — Layer 2 Day (New York)",
+    "to": "https://lu.ma/l2nyc",
+    "sponsor": null,
+    "location": "New York, USA",
+    "description": "​One-day technical event for builders dedicated to Ethereum Infrastructure Web3 developers, founders, and enthusiasts.",
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-21"
+  },
+   {
+    "title": "Epic ETH Infra Day (Istanbul）",
+    "to": "https://lu.ma/ethdayistanbul",
+    "sponsor": null,
+    "location": "Istanbul, Turkey",
+    "description": "​One-day technical event for builders dedicated to Ethereum Infrastructure Web3 developers, founders, and enthusiasts.",
+    "startDate": "2023-11-15",
+    "endDate": "2023-11-15"
+  },
    {
     "title": "Road to Devcon（Shenzhen）",
     "to": "https://ethsz.openbuild.xyz/",
